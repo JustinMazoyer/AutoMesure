@@ -8,7 +8,7 @@ package controller;
 import Automesure.dao.CategorieFacade;
 import Automesure.dao.DispositifFacade;
 import javax.inject.Inject;
-import javax.ws.rs.GET;
+import javax.mvc.Models;
 
 /**
  *
